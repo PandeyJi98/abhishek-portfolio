@@ -36,9 +36,7 @@ export const Skills = () => {
             <div className="skill-bx wow zoomIn">
               <h2>Skills</h2>
               <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry.<br></br> Lorem Ipsum has been the industry's standard
-                dummy text.
+              As a dedicated MERN Stack Developer, I specialize in building scalable, responsive web applications using React.js, Node.js, Express.js, and MongoDB. My expertise in frontend technologies like JavaScript, Bootstrap, CSS, and HTML5 enables me to create intuitive, user-focused interfaces. With a proven track record of delivering high-quality, impactful solutions,
               </p>
               <Carousel
                 responsive={responsive}
