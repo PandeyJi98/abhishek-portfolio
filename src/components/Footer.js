@@ -12,7 +12,13 @@ export const Footer = () => {
         <Row className="align-items-center">
           {/* <MailchimpForm /> */}
           <Col size={12} sm={6}>
-            <img src={logo} alt="Logo" />
+            {/* <img src={logo} alt="Logo" /> */}
+           <span style={{ fontSize: '2em',
+              fontWeight: '500',
+              color: '#0cfabf',
+              boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)',
+              padding: '0.3em 1rem',
+              borderRadius: '50%',}}> Abhishek </span>
           </Col>
           <Col size={12} sm={6} className="text-center text-sm-end">
             <div className="social-icon">
