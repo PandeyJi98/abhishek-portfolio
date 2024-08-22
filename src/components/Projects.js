@@ -82,7 +82,7 @@ monitoring of company activities.`,
 <div class="experience-card2">
     <div class="circle">08/2023 - Present</div>
     <div class="circle">Software Engineer (React js)</div>
-    <div class="card-inner">idesign.market</div>
+    <div class="card-inner">iDesign.Market</div>
 </div>
 </Col>
 </Row>

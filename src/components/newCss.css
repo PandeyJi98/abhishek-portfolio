@@ -417,7 +417,7 @@
 }
 
 .img-popup-wrapper:hover .custom-card-img {
-  transform: scale(1.9);
+  transform: scale(1.6);
   z-index: 10;
   opacity: 9;
 }

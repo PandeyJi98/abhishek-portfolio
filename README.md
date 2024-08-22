@@ -68,3 +68,41 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+const projects = [
+    {
+      title: "Admin Dashboard",
+      description: `Developed a centralized interface allowing users to punch in and out for attendance tracking. Implemented
+ various widgets including Task, Leads, File Manager, Comments,
+Issue Pending Approvals, Accounts Overview, Finance Overview, and Purchase Order for streamlined management and
+monitoring of company activities.`,
+      imgUrl: adminDash,
+    },
+    {
+      title: "Minutes Of Meeting",
+      description: "This feature enhances productivity by providing a single platform for taking comprehensive meeting notes, creating and assigning tasks, and organizing information in tables, all within a user-friendly interface",
+      imgUrl: momImg,
+    },
+    {
+      title: "Chat",
+      description: "I developed an advanced chat feature that mirrors the functionality of WhatsApp but includes unique enhancements tailored for project collaboration. This chat feature enhances project collaboration by integrating essential tools directly into the communication platform, making it easier for teams to share information, track project updates, and stay connected.",
+      imgUrl: chatImg,
+    },
+    {
+      title: "Timeline & Task Manager",
+      description: "I developed the Timeline and Task Manager modules as essential components of an ERP SaaS product tailored for architecture and interior design firms. These modules are crafted to enhance project management and streamline task coordination, ensuring a seamless workflow and increased productivity.",
+      imgUrl: taskManager,
+    },
+    {
+      title: "Material Request",
+      description: " I developed a Material Request Dashboard designed to streamline the process of requesting and ordering materials for interior projects. This feature enhances the efficiency of procurement and inventory management within the organization.",
+      imgUrl: MaterialRequest,
+    },
+    {
+      title: "Project Dashboard",
+      description: "I developed a comprehensive Project Information feature that centralizes critical project details into a single, user-friendly interface. This feature is designed to enhance project management, streamline communication, and ensure that all relevant information is readily accessible.",
+      imgUrl: projectDashboard,
+    },
+  ];

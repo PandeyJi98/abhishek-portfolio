@@ -12,13 +12,7 @@ export const ProjectCard = ({ title, description, imgUrl, handleTabChange }) => 
 }
   return (
     <Col size={12} sm={6} md={4} >
-      {/* <div className="proj-imgbx">
-        <img src={imgUrl} className="imgClass" />
-        <div className="proj-txtx">
-          <h4>{title}</h4>
-          <span>{description}</span>
-        </div>
-      </div> */}
+     
       <Card className="custom-card">
       <div className="custom-card-img-container">
       <div className="img-popup-wrapper">
