@@ -59,7 +59,7 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hi! I'm Abhishek`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "MERN Stack Developer", "Front-end Developer", "React Js Developer" ]'><span className="wrap">{text}</span></span></h1>
-                  <p>As a Software Engineer with expertise in React.JS and two years of experience, I specialize in building
+                  <p>As a Software Engineer with expertise in React.JS and three years of experience, I specialize in building
 highly performant and responsive user interfaces. I am dedicated to delivering high-quality solutions
 that meet the needs of users and businesses alike.
 </p>
