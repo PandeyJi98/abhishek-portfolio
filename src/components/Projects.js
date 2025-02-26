@@ -73,14 +73,14 @@ monitoring of company activities.`,
                 <Row xs={1} sm={1} md={2} lg={2} className="g-5">
                 <Col>
 <div class="experience-card">
-    <div class="circle">11/2021 - 07/2023</div>
-    <div class="circle">Frontend Developer</div>
-    <div class="card-inner"> Go Business India Pvt. Ltd.</div>
+    <div class="circle">11/2024 - Present</div>
+    <div class="circle">MERN Stack Developer</div>
+    <div class="card-inner"> Sarus Agro Pvt. Ltd.</div>
 </div>
 </Col>
                 <Col>
 <div class="experience-card2">
-    <div class="circle">08/2023 - Present</div>
+    <div class="circle">11/2021 - 10/2024</div>
     <div class="circle">Software Engineer (React js)</div>
     <div class="card-inner">iDesign.Market</div>
 </div>
